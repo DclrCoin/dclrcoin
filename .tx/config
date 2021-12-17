@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[dclrcoin.qt-translation-020x]
+file_filter = src/qt/locale/dclrcoin_<lang>.ts
+source_file = src/qt/locale/dclrcoin_en.ts
+source_lang = en
